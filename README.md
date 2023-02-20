@@ -1,4 +1,4 @@
-Finger print automatic door lock system<br/>
+#**Finger print automatic door lock system**<br/>
 
 Now a day’s security is an issue of concern in our households and also in office, shops, etc.   Everyone has a fear of unauthorized person entering to their home or office without been seen. This paper explains various security issues in the existing home automation systems and proposes the use fingerprint based security algorithms to improve home security. Simulation of this project is done by using Arduino as a controller to which the devices are directly interfaced.
 In the existing system, most doors are controlled by persons with the use of keys, password or pattern to open the door. The manual door can be fitted with locks but these locks can’t assure full security. The aim of this project is to help users for improvement of the door security. 
